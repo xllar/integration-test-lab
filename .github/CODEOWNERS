@@ -1,2 +1,3 @@
-# This ensures @xllar must approve any change in the repo
+# This requests review from @xllar for any change in the repo
+# Note: To enforce approval, enable branch protection with "Require review from Code Owners"
 * @xllar
